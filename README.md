@@ -1,6 +1,6 @@
 # Using Amazon Personalize to recommend cars
 
-[Amazon Personalize(https://aws.amazon.com/personalize/) is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications. This set
+(Amazon Personalizer)[https://aws.amazon.com/personalize/] is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications. This set
 of notebooks provides developers that are new to Personalize with an end-to-end example for getting
 started with the service. This gives an easy to understand and approachable baseline you can use
 before bringing the service to your own datasets and recommendation applications.
