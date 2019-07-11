@@ -1,0 +1,11 @@
+MAKE,MODEL,NUM_DOORS,BODY_TYPE
+Toyota,Camry,4,sedan
+Toyota,Sienna,4,minivan
+Toyota,Rav4,4,suv
+Toyota,Prius,4,sedan
+Ford,Fusion,4,sedan
+Ford,Mustang,4,sedan
+Ford,Explorer,4,suv
+Nissan,Altima,4,sedan
+Nissan,Rogue,4,suv
+Nissan,Leaf,4,sedan
